@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.HomePage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Frame BackgroundColor="AliceBlue" CornerRadius="50">
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="iuda.jpg" HeightRequest="250" WidthRequest="150"></Image>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical">
+                            <StackLayout>
+                                <Label Text="Проверка" TextColor="Black"></Label>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Имя" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Фамилию" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Отчество" TextColor="Black"></Label>
+                                <Entry TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Номер свойе карты" TextColor="Black"></Label>
+                                <Entry TextColor="Black"></Entry>
+                            </StackLayout>
+                            <Button Text="Отправить" BackgroundColor="Pink" CornerRadius="100"></Button>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+
+                <Frame BackgroundColor="AliceBlue" CornerRadius="50">
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="iuda.jpg" HeightRequest="250" WidthRequest="150"></Image>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical">
+                            <StackLayout>
+                                <Label Text="Проверка" TextColor="Black"></Label>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Имя" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Фамилию" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Отчество" TextColor="Black"></Label>
+                                <Entry TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Номер свойе карты" TextColor="Black"></Label>
+                                <Entry TextColor="Black"></Entry>
+                            </StackLayout>
+                            <Button Text="Отправить" BackgroundColor="Pink" CornerRadius="100"></Button>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+
+                <Frame BackgroundColor="AliceBlue" CornerRadius="50">
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="iuda.jpg" HeightRequest="250" WidthRequest="150"></Image>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical">
+                            <StackLayout>
+                                <Label Text="Проверка" TextColor="Black"></Label>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Имя" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Фамилию" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Отчество" TextColor="Black"></Label>
+                                <Entry TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Номер свойе карты" TextColor="Black"></Label>
+                                <Entry TextColor="Black"></Entry>
+                            </StackLayout>
+                            <Button Text="Отправить" BackgroundColor="Pink" CornerRadius="100"></Button>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+
+                <Frame BackgroundColor="AliceBlue" CornerRadius="50">
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="iuda.jpg" HeightRequest="250" WidthRequest="150"></Image>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical">
+                            <StackLayout>
+                                <Label Text="Проверка" TextColor="Black"></Label>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Имя" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Фамилию" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Отчество" TextColor="Black"></Label>
+                                <Entry TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Номер свойе карты" TextColor="Black"></Label>
+                                <Entry TextColor="Black"></Entry>
+                            </StackLayout>
+                            <Button Text="Отправить" BackgroundColor="Pink" CornerRadius="100"></Button>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+
+                <Frame BackgroundColor="AliceBlue" CornerRadius="50">
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="iuda.jpg" HeightRequest="250" WidthRequest="150"></Image>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical">
+                            <StackLayout>
+                                <Label Text="Проверка" TextColor="Black"></Label>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Имя" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Фамилию" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Отчество" TextColor="Black"></Label>
+                                <Entry TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Номер свойе карты" TextColor="Black"></Label>
+                                <Entry TextColor="Black"></Entry>
+                            </StackLayout>
+                            <Button Text="Отправить" BackgroundColor="Pink" CornerRadius="100"></Button>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+
+                <Frame BackgroundColor="AliceBlue" CornerRadius="50">
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="iuda.jpg" HeightRequest="250" WidthRequest="150"></Image>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical">
+                            <StackLayout>
+                                <Label Text="Проверка" TextColor="Black"></Label>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Имя" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Фамилию" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Отчество" TextColor="Black"></Label>
+                                <Entry TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Номер свойе карты" TextColor="Black"></Label>
+                                <Entry TextColor="Black"></Entry>
+                            </StackLayout>
+                            <Button Text="Отправить" BackgroundColor="Pink" CornerRadius="100"></Button>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+
+                <Frame BackgroundColor="AliceBlue" CornerRadius="50">
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="iuda.jpg" HeightRequest="250" WidthRequest="150"></Image>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical">
+                            <StackLayout>
+                                <Label Text="Проверка" TextColor="Black"></Label>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Имя" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Фамилию" TextColor="Black"></Label>
+                                <Entry  TextColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Введите Отчество" TextColor="Black"></Label>
+                                <Entry TextColor="Black" BackgroundColor="Black"></Entry>
+                            </StackLayout>
+                            <StackLayout>
+                                <Label Text="Номер свойе карты" TextColor="Black"></Label>
+                                <Entry TextColor="Black"></Entry>
+                            </StackLayout>
+                            <Button Text="Отправить" BackgroundColor="Pink" CornerRadius="100"></Button>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
